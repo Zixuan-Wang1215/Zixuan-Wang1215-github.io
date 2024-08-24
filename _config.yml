@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Samuel Zixuan's Homepage"
 title_separator          : "-"
-name                     : &name "Zixuan Wang"
+name                     : &name "Samuel, Zixuan Wang"
 description              : &description "personal description"
 url                      : https://zixuan-wang1215.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
