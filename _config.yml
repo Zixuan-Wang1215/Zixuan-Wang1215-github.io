@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Samuel Zixuan's Homepage"
 title_separator          : "-"
-name                     : &name "Samuel, Zixuan Wang"
+name                     : &name "Zixuan Wang"
 description              : &description "personal description"
 url                      : https://zixuan-wang1215.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Zixuan-Wang1215/Zixuan-Wang1215.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zixuan Wang"
+  name             : "Samuel, Zixuan Wang"
   pronouns         : # example: "she/her"  
   bio              : "A Highschooler in San Jose who is interested in AI4Science, CS and machine learning, and keen in photography"
   location         : "San Jose, California"
