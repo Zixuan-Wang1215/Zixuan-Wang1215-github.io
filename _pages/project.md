@@ -9,10 +9,11 @@ author_profile: true
 
 
 * [AI for Science Paper Collection and analysis](https://github.com/Zixuan-Wang1215/AI_for_Science_paper_collection) from top ICML, NeurIPS, ICLR: Collecting and labeling the papers from top conferenes and conduct further analysis.
-![Alt Text](images/science.png)
-![Alt Text](../images/ml.png)
-![Alt Text](../images/conference_application_year.png)
-![Alt Text](../images/ai4s_paper_ratio.png)
+<img src="../images/science.png" alt="Screenshot of the Project" style="width:50%; height:auto;" />
+<img src="../images/ml.png" alt="Screenshot of the Project" style="width:50%; height:auto;" />
+<img src="../images/conference_application_year.png" alt="Screenshot of the Project" style="width:50%; height:auto;" />
+<img src="../images/ai4s_paper_ratio.png" alt="Screenshot of the Project" style="width:50%; height:auto;" />
+
 
 * [3D Virtual Rubik's Cube](https://github.com/Zixuan-Wang1215/3D-Virtual-Rubiks-Cube): A virtual Rubik's Cube powered by Unity engine.
 
